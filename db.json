@@ -5,7 +5,7 @@
       "title": "hello ddd"
     }
   ],
-  "serial":[
+  "serial":
   {
     "item_no": "SCS-71468",
     "Serial_No": 1731001,
@@ -35,7 +35,7 @@
     "notes": "DUAL COMBINATION TESTER",
     "Power": ""
   }
-],
+,
   "profile": {
     "name": "typicodedd"
   }
