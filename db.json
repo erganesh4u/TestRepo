@@ -5,6 +5,37 @@
       "title": "hello ddd"
     }
   ],
+  [
+  {
+    "item_no": "SCS-71468",
+    "Serial_No": 1731001,
+    "item_No2": 71468,
+    "Description": "DUAL COMBINATION TESTER",
+    "Volt": "12VDC",
+    "Calibration_Procedure": "CUSTOMER REQUESTED SETTING (FOOTWEAR \"LO\" LIMIT @ 50K +/-10%, 45K FAIL LOW, PASS 55K) ( \"HI\" LIMIT @ 455K +/-10% PASS 410K, FAIL HIGH 500K) AND WRIST STRAP DISABLED",
+    "tech_bulletin": "TB-9069",
+    "MFD": "2017-08-01",
+    "Employee_No": 467,
+    "Nist_Date": "2017-08-23",
+    "Nist_DueDate": "2018-08-23",
+    "Calunit_Ser": 1707007,
+    "Brand": "SCS",
+    "Last_Name": "Raygoza",
+    "First_Name": "Fernando",
+    "Signature_pic": "",
+    "Model_Name": "SCS-71468",
+    "Picture": "",
+    "Website": "StaticControl.com",
+    "fuse": "",
+    "DESCRIP": "Limit Comparator for 3 Way Testers",
+    "DUE_FOR_CAL": "2020-03-01",
+    "DATE_OF_CAL": "2019-03-01",
+    "TB_Download": "www.StaticControl.com",
+    "MFGR": "",
+    "notes": "DUAL COMBINATION TESTER",
+    "Power": ""
+  }
+],
   "profile": {
     "name": "typicodedd"
   }
